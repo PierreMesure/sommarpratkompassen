@@ -14,7 +14,7 @@ Use the token to submit a batch to QuickStatements from your own bot (please use
 > ?action=import
 > &submit=1
 > &username=PierreMesure
-> &token=%242y%2412%24W.ULRE1xa7Bd1fu5oRKqq.EkU5DXJzjQeBW8KknVv49l4rqgthLb.
+> &token=QS_TOKEN [URL-encoded value from .env]
 > &format=FORMAT ["v1" or "csv"]
 > &data=COMMANDS [commands in the above format]
 > &compress=0 [optional; deactivates compression of CREATE and following LAST commands]
